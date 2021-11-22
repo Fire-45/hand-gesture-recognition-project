@@ -1,0 +1,17 @@
+#hu{
+    font-size: 20px;
+    height: 70px;
+    width: 250px
+    
+}
+
+#camera , #picture
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+
+body{
+    background: linear-gradient(#db9c1d 100%, #a6730c 1%)
+}
